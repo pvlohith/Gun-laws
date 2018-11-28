@@ -1,1 +1,2 @@
 # Gun-laws
+The report analyzes the data to answer the following question, “Do shall-issues law reduce crime- or not?”  The analysis provided sheds light on the statistics behind crime activity in the United States over the span of 29 years. By understanding the trends of violence, robberies, incarceration rate, and murder as well as data on the demographic the states and the wider country, one can understand the impact that concealed handgun laws have on the nation.  
